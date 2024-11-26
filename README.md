@@ -1,6 +1,6 @@
 # Bharatnatyam-Dance-form-Classification-using-CNN
 
-The dataset contains labeled images of Bharatanatyam dance poses, specifically curated to represent nine distinct poses: Samapadam, Swastika, Prenkhana, Nataraj, Nagabandham, Muzhumandi, Garuda, Bramha, and Ardhamandalam. Each class includes augmented image samples to ensure variety and improve model training robustness. The images are preprocessed to standard dimensions and normalized to facilitate efficient processing by machine learning models. This dataset is sourced from Kaggle and is ideal for pose classification tasks, cultural research and applications in performing arts. It is utilized to train Convolutional Neural Networks (CNNs)  for tasks like pose recognition or classification.
+The dataset contains labeled images of Bharatanatyam dance poses, specifically curated to represent nine distinct poses: Samapadam, Swastika, Prenkhana, Nataraj, Nagabandham, Muzhumandi, Garuda, Bramha, and Ardhamandalam. Each class includes augmented image samples to ensure variety and improve model training robustness. The images are preprocessed to standard dimensions and normalized to facilitate efficient processing by machine learning models. This dataset is sourced from Kaggle(https://www.kaggle.com/datasets/pranavmanoj/bharatnatyam-dance-poses) and is ideal for pose classification tasks, cultural research and applications in performing arts. It is utilized to train Convolutional Neural Networks (CNNs)  for tasks like pose recognition or classification.
 
 Features of the Dataset:
 
